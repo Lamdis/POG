@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-12.0.2/lib/jrt-fs.jar"/>
-	<classpathentry kind="lib" path="F:/ASauvegarde/IMPORTANT/Codage/Java et API/Spigot/spigot-1.14.jar"/>
-	<classpathentry kind="lib" path="F:/ASauvegarde/IMPORTANT/Codage/Java et API/Paper/paper-api-1.21.4-R0.1-SNAPSHOT.jar"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
