@@ -1,0 +1,21 @@
+pickaxe:
+  name: "&r&b&lPickaxe of the Gods"
+  # Any lines containing %XP% or %REQUIRED% will not be displayed if the pickaxe is max level
+  lore:
+    - "§r§fLevel : %LEVEL%"
+    - "§r§fXP : %XP%/%REQUIRED% xp"
+    - "§r§7Sneak + Right Click to open menu"
+  # Configure blocks that do not earn XP
+  no-xp:
+    - GRASS
+    - DANDELION
+    - POPPY
+    
+# Changing this setting may level up or down already created Pickaxes of the Gods.
+# Changing this setting will require changes to the texture pack models
+custom_model_data_per_level: 100000
+
+
+
+# Do not modify this
+config-version: "1.2.0"

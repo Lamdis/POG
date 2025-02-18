@@ -1,0 +1,20 @@
+active: true
+
+# To disable the capacity, replace with "false"
+required-level:
+  big-hole-1: 18
+  big-hole-2: 20
+  furnace: 5
+  silk-touch: 5
+  fortune: 5
+  god-axe: 10
+  god-shovel: 10
+  
+
+# Give XP to the POG for each block broken by Big Hole
+big-hole-give-xp: true
+
+tools-of-the-gods-impact-big-hole: true
+
+break-leaves-with-god-axe: true
+  

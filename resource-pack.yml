@@ -1,0 +1,6 @@
+send-resource:
+  # true / false
+  active: true
+  exception:
+    #- "ExamplePlayerName"
+  1.14+: "https://www.curseforge.com/api/v1/mods/833548/files/6185440/download"

@@ -1,0 +1,119 @@
+#############################################
+###         Pickaxe of the Gods           ###
+#############################################
+
+pog:
+  active: true
+  table:
+    - 'ABC'
+    - ' D '
+    - ' D '
+  ingredients:
+    A: IRON_PICKAXE
+    B: NETHERITE_PICKAXE
+    C: DIAMOND_PICKAXE
+    D: OBSIDIAN
+    
+
+#############################################
+###     Tool for Pickaxe of the Gods      ###
+#############################################
+
+bighole1:
+  active: true
+  table:
+    - 'ABA'
+    - 'BCB'
+    - 'ABA'
+  ingredients:
+    A: IRON_PICKAXE
+    B: GOLD_INGOT
+    C: DIAMOND_PICKAXE
+    
+bighole2:
+  active: true
+  table:
+    - 'ABA'
+    - 'BCB'
+    - 'ABA'
+  ingredients:
+    A: DIAMOND_PICKAXE
+    B: GOLD_BLOCK
+    C: NETHERITE_PICKAXE
+    
+furnacetool:
+  active: true
+  table:
+    - 'ABA'
+    - 'BCB'
+    - 'ABA'
+  ingredients:
+    A: MAGMA_BLOCK
+    B: BLAZE_ROD
+    C: FURNACE
+    
+silktouchtool:
+  active: true
+  table:
+    - 'ABA'
+    - 'BCB'
+    - 'ABA'
+  ingredients:
+    A: FEATHER
+    B: STRING
+    C: DIAMOND_PICKAXE
+    
+fortunetool:
+  active: true
+  table:
+    - 'ABA'
+    - 'BCB'
+    - 'ABA'
+  ingredients:
+    A: GOLD_INGOT
+    B: DIAMOND
+    C: EMERALD
+    
+godaxe:
+  active: true
+  table:
+    - 'ABA'
+    - 'BCB'
+    - 'ABA'
+  ingredients:
+    A: OBSIDIAN
+    B: ACACIA_LOG
+    C: DIAMOND_AXE
+    
+godshovel:
+  active: true
+  table:
+    - 'ABA'
+    - 'BCB'
+    - 'ABA'
+  ingredients:
+    A: OBSIDIAN
+    B: RED_SAND
+    C: DIAMOND_SHOVEL
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

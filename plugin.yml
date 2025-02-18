@@ -1,0 +1,43 @@
+name: POG
+version: 2.5.0
+author: Lamdis
+api-version: 1.13
+description: Pickaxe of the God plugin !
+main: fr.lamdis.pog.Pog
+commands:
+  pog:
+    description: POG
+    permission: pog.command.main
+permissions:
+  pog.craft.pickaxe:
+    default: true
+  pog.craft.bighole1:
+    default: true
+  pog.craft.bighole2:
+    default: true
+  pog.craft.furnace:
+    default: true
+  pog.craft.silk-touch:
+    default: true
+  pog.craft.fortune:
+    default: true
+  pog.craft.axe-of-the-gods-tool:
+    default: true
+  pog.craft.shovel-of-the-gods-tool:
+    default: true
+  pog.use.pickaxe:
+    default: true
+  pog.use.bighole1:
+    default: true
+  pog.use.bighole2:
+    default: true
+  pog.use.furnace:
+    default: true
+  pog.use.silk-touch:
+    default: true
+  pog.use.fortune:
+    default: true
+  pog.use.axe-of-the-gods-tool:
+    default: true
+  pog.use.shovel-of-the-gods-tool:
+    default: true
