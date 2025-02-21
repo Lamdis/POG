@@ -1,7 +1,7 @@
 .settings/*
 .idea/*
 .classpath
-.project
+#.project
 bin/*
 # Compiled source #
 ###################
